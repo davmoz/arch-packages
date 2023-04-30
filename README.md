@@ -1,7 +1,7 @@
 # My packages
 
 ```
-sudo pacman -S discord docker docker-compose wireshark-qt obs-studio firefox wmctrl
+sudo pacman -S discord docker docker-compose wireshark-qt obs-studio firefox wmctrl evolution 
 ```
 
 ```
