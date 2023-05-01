@@ -20,7 +20,7 @@ cd .. && sudo rm -r yay
 ```
 
 ```
-yay -S spotify visual-studio-code-bin jetbrains-toolbox surfshark-gui-bin postman-bin arduino-ide-bin ulauncher slack-desktop notion-app mqtt-explorer balena-etcher rpi-imager zerotier-one brave-bin google-chrome timeshift
+yay -S spotify visual-studio-code-bin jetbrains-toolbox surfshark-gui-bin postman-bin arduino-ide-bin ulauncher slack-desktop notion-app mqtt-explorer balena-etcher rpi-imager zerotier-one brave-bin google-chrome timeshift ventoy-bin
 ```
 
 ```
